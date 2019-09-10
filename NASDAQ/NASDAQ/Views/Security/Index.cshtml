@@ -1,0 +1,95 @@
+﻿@model IEnumerable<NASDAQ.Models.Security>
+
+@{
+    ViewBag.Title = "Security";
+}
+
+<h2>Security</h2>
+
+<p>
+    @Html.ActionLink("New security", "Create", "Security", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.isin)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ticker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.recent_volatility)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.list_segment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.issuer)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.nominal_value)
+            </th>
+            @*
+                <th>
+            @Html.DisplayNameFor(model => model.total_number_of_securities)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.listed_securities_number)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.listing_date.Date)
+        </th>
+            *@
+            <th>
+                @Html.DisplayNameFor(model => model.fk_Company)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.isin)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ticker)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.recent_volatility)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.list_segment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.issuer)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.nominal_value)
+                </td>
+                @*
+            <td>
+                @Html.DisplayFor(modelItem => item.total_number_of_securities)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.listed_securities_number)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.listing_date)
+            </td>
+                *@
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.fk_Company)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { ticker = item.ticker }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Delete", "Delete", new { ticker = item.ticker }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+        }
+            </tbody>
+        </table>

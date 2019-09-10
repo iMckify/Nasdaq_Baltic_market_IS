@@ -1,0 +1,90 @@
+﻿@model IEnumerable<NASDAQ.Models.Financial_report>
+
+@{
+    ViewBag.Title = "Financial_report";
+}
+
+<h2>Financial report</h2>
+
+<p>
+    @Html.ActionLink("New Report", "Create", "Financial_report", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.ticker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.reporting_period)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.statement_type)
+            </th>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.release_date)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.P_E)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.P_B)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EV_EBITDA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NetDepth_EBITDA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ROA)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fk_Company)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ticker)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.reporting_period)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.statement_type)
+                </td>
+                @*<td>
+                    @Html.DisplayFor(modelItem => item.release_date)
+                </td>*@
+                <td>
+                    @Html.DisplayFor(modelItem => item.P_E)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.P_B)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EV_EBITDA)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NetDepth_EBITDA)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ROA)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fk_Company)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { ticker = item.ticker }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Delete", "Delete", new { ticker = item.ticker }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

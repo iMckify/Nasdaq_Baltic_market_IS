@@ -1,0 +1,255 @@
+D:\DB\L2\NASDAQ\NASDAQ\bin\NASDAQ.dll.config
+D:\DB\L2\NASDAQ\NASDAQ\bin\NASDAQ.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\NASDAQ.pdb
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csc.exe
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csc.exe.config
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csc.rsp
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csi.exe
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csi.exe.config
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\csi.rsp
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.AppContext.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Collections.Immutable.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Console.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.IO.Compression.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.AccessControl.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Claims.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.ValueTuple.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\vbc.exe
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\vbc.exe.config
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\vbc.rsp
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe
+D:\DB\L2\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe.config
+D:\DB\L2\NASDAQ\NASDAQ\bin\Antlr3.Runtime.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\Microsoft.Web.Infrastructure.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\Newtonsoft.Json.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Helpers.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Mvc.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Optimization.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Razor.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\WebGrease.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Helpers.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Mvc.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Optimization.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.Razor.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\Newtonsoft.Json.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\Antlr3.Runtime.pdb
+D:\DB\L2\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DB\L2\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csprojAssemblyReference.cache
+D:\DB\L2\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CoreCompileInputs.cache
+D:\DB\L2\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CopyComplete
+D:\DB\L2\NASDAQ\NASDAQ\obj\Debug\NASDAQ.dll
+D:\DB\L2\NASDAQ\NASDAQ\obj\Debug\NASDAQ.pdb
+D:\DB\L2\NASDAQ\NASDAQ\bin\BouncyCastle.Crypto.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\EntityFramework.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\Google.Protobuf.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\MySql.Data.dll
+D:\DB\L2\NASDAQ\NASDAQ\bin\EntityFramework.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\Google.Protobuf.xml
+D:\DB\L2\NASDAQ\NASDAQ\bin\MySql.Data.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.dll.config
+D:\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.pdb
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.exe
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.exe.config
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.rsp
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.exe
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.exe.config
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.rsp
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.AppContext.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Collections.Immutable.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Console.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Compression.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.AccessControl.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Claims.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.ValueTuple.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.exe
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.exe.config
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.rsp
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe
+D:\DB\L3\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe.config
+D:\DB\L3\NASDAQ\NASDAQ\bin\Antlr3.Runtime.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\BouncyCastle.Crypto.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\Google.Protobuf.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.Web.Infrastructure.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\MySql.Data.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\Newtonsoft.Json.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Helpers.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Mvc.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Optimization.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Razor.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\WebGrease.dll
+D:\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\Google.Protobuf.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\MySql.Data.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\Newtonsoft.Json.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Helpers.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Mvc.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Optimization.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Razor.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.xml
+D:\DB\L3\NASDAQ\NASDAQ\bin\Antlr3.Runtime.pdb
+D:\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csprojAssemblyReference.cache
+D:\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CoreCompileInputs.cache
+D:\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CopyComplete
+D:\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.dll
+D:\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.pdb
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.dll.config
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\NASDAQ.pdb
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.exe
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.exe.config
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csc.rsp
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.exe
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.exe.config
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\csi.rsp
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.AppContext.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Collections.Immutable.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Console.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Compression.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.IO.Pipes.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Reflection.Metadata.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.AccessControl.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Claims.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.ValueTuple.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.exe
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.exe.config
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\vbc.rsp
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\roslyn\VBCSCompiler.exe.config
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Antlr3.Runtime.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\BouncyCastle.Crypto.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Google.Protobuf.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.Web.Infrastructure.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\MySql.Data.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Newtonsoft.Json.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Helpers.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Mvc.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Optimization.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Razor.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\WebGrease.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\EntityFramework.SqlServer.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Google.Protobuf.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\MySql.Data.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Newtonsoft.Json.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Helpers.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Mvc.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Optimization.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.Razor.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Deployment.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\System.Web.WebPages.Razor.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Antlr3.Runtime.pdb
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csprojAssemblyReference.cache
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CoreCompileInputs.cache
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.csproj.CopyComplete
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.dll
+D:\Roko\KTU\2 kurso 2 sem\DB\L3\NASDAQ\NASDAQ\obj\Debug\NASDAQ.pdb

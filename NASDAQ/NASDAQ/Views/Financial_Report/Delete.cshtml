@@ -1,0 +1,109 @@
+﻿@model NASDAQ.ViewModels.FinancialReportEditViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete report</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ticker)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticker)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.reporting_period)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.reporting_period)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.statement_type)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.statement_type)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.release_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.release_date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.P_E)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.P_E)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.P_B)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.P_B)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EV_EBITDA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EV_EBITDA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NetDepth_EBITDA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NetDepth_EBITDA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ROA)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ROA)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_Company)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_Company)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        @if (ViewBag.used != null)
+        {
+            <h5 style="color:red">@ViewBag.used</h5>
+        }
+        else
+        {
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            @Html.ActionLink("Back to List", "Index", "FinancialReports", new { @class = "btn btn-default" })
+        }
+    </div>
+    }
+</div>

@@ -1,0 +1,67 @@
+﻿@model IEnumerable<NASDAQ.Models.Company>
+
+@{
+    ViewBag.Title = "Company";
+}
+
+<h2>Company</h2>
+
+<p>
+    @Html.ActionLink("New company", "Create", "Company", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.value)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.number_of_shares)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.dividend_per_share)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.number_of_shareholders)
+            </th>
+            <th style="width: 18%"></th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.value)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.number_of_shares)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.dividend_per_share)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.number_of_shareholders)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { code = item.code }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Delete", "Delete", new { code = item.code }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

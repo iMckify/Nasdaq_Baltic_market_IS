@@ -1,0 +1,110 @@
+﻿@model NASDAQ.ViewModels.SecurityEditViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete security</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.isin)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.isin)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ticker)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ticker)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.recent_volatility)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.recent_volatility)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.list_segment)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.list_segment)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.issuer)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.issuer)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nominal_value)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nominal_value)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.total_number_of_securities)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.total_number_of_securities)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.listed_securities_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.listed_securities_number)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.listing_date)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.listing_date.Date)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.fk_Company)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.fk_Company)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+    <div class="form-actions no-color">
+        @if (ViewBag.used != null)
+        {
+            <h5 style="color:red">@ViewBag.used</h5>
+        }
+        else
+        {
+            <input type="submit" value="Delete" class="btn btn-danger" />
+            @Html.ActionLink("Back to List", "Index", "Security", new { @class = "btn btn-default" })
+        }
+    </div>
+    }
+</div>

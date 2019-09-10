@@ -1,0 +1,7 @@
+SELECT COUNT(p.fk_Security) as 'Sold count',
+    SUM(p.value) as 'Sold sum'
+FROM prices p 
+	INNER JOIN securities s ON p.fk_Security = s.ticker
+    INNER JOIN companies c ON c.code = s.fk_Company
+WHERE p.from_date >= IFNULL(?from, p.from_date) AND
+	p.to_date <= IFNULL(?to, p.to_date)

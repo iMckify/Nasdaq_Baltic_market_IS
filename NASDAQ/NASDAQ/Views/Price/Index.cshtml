@@ -1,0 +1,53 @@
+﻿@model IEnumerable<NASDAQ.Models.Price>
+
+@{
+    ViewBag.Title = "Price";
+}
+
+<h2>Price</h2>
+
+<p>
+    @Html.ActionLink("New Price", "Create", "Price", new { @class = "btn btn-success" })
+</p>
+<table class="table table-striped datatable">
+    <thead>
+        <tr style="background-color: lightblue">
+            <th>
+                @Html.DisplayNameFor(model => model.from_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.value)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.to_date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.fk_Security)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.from_date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.value)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.to_date)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.fk_Security)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.id }, new { @class = "btn btn-primary action" })
+                    @Html.ActionLink("Delete", "Delete", new { id = item.id }, new { @class = "btn btn-danger action" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

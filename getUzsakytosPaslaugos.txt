@@ -1,0 +1,10 @@
+SELECT pa.id, pa.pavadinimas, sum(upa.kiekis) as kiekis,
+	sum(upa.kiekis*upa.kaina) as suma 
+FROM pavyzdys_paslaugos pa, pavyzdys_uzsakytos_paslaugos
+	upa, pavyzdys_sutartys su
+WHERE pa.id = upa.fk_paslauga AND upa.fk_sutartis = su.nr
+	AND su.sutarties_data >= IFNULL('2016-01-01',
+	su.sutarties_data) AND su.sutarties_data <=
+	IFNULL('2017-01-01', su.sutarties_data)
+GROUP BY pa.id, pa.pavadinimas
+ORDER BY suma DESC
